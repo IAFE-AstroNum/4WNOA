@@ -20,7 +20,7 @@ Astrophysics.)](http://www.iafe.uba.ar/). The IAFE is located at the University 
 ("Ciudad Universitaria")
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-58.44477653503419%2C-34.54778186592652%2C-58.43576431274415%2C-34.542214468065914&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=17/-34.54500/-58.44027&amp;layers=N">View Larger Map</a></small>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1643.1689555586133!2d-58.440936573005665!3d-34.54499879097897!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb437f8609715%3A0xcbd02bd47224dcbb!2sInstituto+de+Astronom%C3%ADa+y+F%C3%ADsica+del+Espacio!5e0!3m2!1ses-419!2scl!4v1522191151406" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 ## Public Transportation
