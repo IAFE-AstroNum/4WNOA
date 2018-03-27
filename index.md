@@ -1,5 +1,6 @@
 ---
 title: 4WNOA
+layout: frontpage
 ---
 
 ## Scientific Rationale 

@@ -13,30 +13,36 @@
 {% endfor %}
 
 <!-- Then we build the nav bar. -->
-<nav>
-    <ul>
-    {% for entry in site.data.navigation %}
-        {% if entry.url == current_page %}
-            {% assign current = ' class="current"' %}
-        {% else %}
-            <!-- We have to declare it 'null' to ensure it doesn't propagate. -->
-            {% assign current = null %}
-        {% endif %}
-        {% assign sublinks = entry.sublinks %}
-        {% if sublinks %}
-        <!-- <li{{ current }}> -->
-            <a class="btn" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
-            <!-- <ul>
-                {% for sublink in sublinks %}
-                <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
-                {% endfor %}
-            </ul> -->
-        <!-- </li> -->
-        {% else %}
-        <!-- <li{{ current }}> -->
-            <a class="btn" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
-        <!-- </li> -->
-        {% endif %}
-    {% endfor %}
-    </ul>
+<nav class="navbar sticky-top navbar-expand-lg navbar-dark" style="background-color: #155799;">
+    <a class="navbar-brand" href="{{ "/" | relative_url }}">4WNOA</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+        {% for entry in site.data.navigation %}
+            {% if entry.url == current_page %}
+                {% assign current = ' class="nav-item active"' %}
+            {% else %}
+                <!-- We have to declare it 'null' to ensure it doesn't propagate. -->
+                {% assign current = ' class="nav-item"' %}
+            {% endif %}
+            {% assign sublinks = entry.sublinks %}
+            {% if sublinks %}
+            <li{{ current }}>
+                <a class="nav-link" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+                <!-- <ul>
+                    {% for sublink in sublinks %}
+                    <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+                    {% endfor %}
+                </ul> -->
+            </li>
+            {% else %}
+            <li{{ current }}>
+                <a class="nav-link" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+            </li>
+            {% endif %}
+        {% endfor %}
+        </ul>
+    </div>
 </nav>
