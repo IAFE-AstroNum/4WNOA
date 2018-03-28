@@ -5,12 +5,12 @@ title: speakers
 # Speakers
 
 ## Invited Speakers
+- Joop Schaye (TBC)
 - Richard Bower
 - Klaus Dolag
+- Gabriella De Lucia (TBC)
 - Vladimir Avila-Reese
 - Nelson Padilla
-- Gabriella De Lucia (TBC)
-- Joop Schaye (TBC)
 
 ## Contributed Speakers
 
