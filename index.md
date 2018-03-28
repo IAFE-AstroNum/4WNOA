@@ -31,7 +31,6 @@ regarding modelling and data processing tools.
 - Sol Rosito
 - Pedro Cataldi
 - Lucas Bignone
-- Celeste Artale
 - Patricia Tissera
 - Susana Pedrosa
 
