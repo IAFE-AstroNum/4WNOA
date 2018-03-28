@@ -27,14 +27,6 @@ the observational an theoretical point of view. The meeting will include
 extended talks that will provide a detailed overview of the state of the art
 regarding modelling and data processing tools.
 
-## Scientific Organizing Committee
-
-- Rosa Dominguez-Tenreiro
-- Valdimir Avila-Reese
-- Patricia Tissera
-- Susana Pedrosa
-- TBD
-
 ## Local Organizing Committee
 - Sol Rosito
 - Pedro Cataldi
