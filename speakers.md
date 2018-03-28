@@ -9,8 +9,8 @@ title: speakers
 - Klaus Dolag
 - Vladimir Avila-Reese
 - Nelson Padilla
-- TBD
-- TBD
+- Gabriella De Lucia (TBC)
+- Joop Schaye (TBC)
 
 ## Contributed Speakers
 
