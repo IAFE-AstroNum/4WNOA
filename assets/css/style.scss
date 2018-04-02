@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}"; 
+.page-header {
+    color: white;
+    background-image: url('/assets/img/madero.jpg');
+    background-blend-mode: luminosity;
+    background-position: 50% 80%;
+}
+.project-name {
+    opacity: 1;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+.project-tagline {
+    font-size: 1.6rem;
+    font-weight: bolder;
+    color: white;
+    opacity: 1;
+}
