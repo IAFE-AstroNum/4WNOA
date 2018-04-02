@@ -4,7 +4,7 @@
 @import "{{ site.theme }}"; 
 .page-header {
     color: white;
-    background-image: url('{{ BASE_PATH }}/assets/img/madero.jpg');
+    background-image: url('{{ baseurl }}/assets/img/madero.jpg');
     background-blend-mode: luminosity;
     background-position: 50% 80%;
 }
