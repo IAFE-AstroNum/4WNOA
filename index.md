@@ -33,6 +33,7 @@ regarding modelling and data processing tools.
 - Lucas Bignone
 - Patricia Tissera
 - Susana Pedrosa
+- María Celeste Artale
 
 ## Past Editions
 
