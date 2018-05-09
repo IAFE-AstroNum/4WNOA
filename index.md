@@ -22,13 +22,23 @@ with leading scientists in areas related to formation and evolution of galaxies,
 observational an theoretical point of view. The meeting will include extended talks that will
 provide a detailed overview of the state of the art regarding modeling and data processing tools.
 
+## Scientific Organizing Committee
+
+- Vladimir Avila-Reese (UNAM, Mexico)
+- Carlton Baugh (Durham, UK)
+- Rosa Dominguez-Tenreiro (UAM, Spain)
+- Nelson Padilla (PUC, Chile)
+- Susana Pedrosa (IAFE, Argentina, co-chair)
+- Patricia Tissera (UNAB, Chile, co-chair)
+
 ## Local Organizing Committee
-- Sol Rosito
-- Pedro Cataldi
-- Lucas Bignone
-- Patricia Tissera
-- Susana Pedrosa
-- María Celeste Artale
+
+- María Celeste Artale (U. Innsbruck, Austria)
+- Lucas Bignone (UNAB, Chile)
+- Pedro Cataldi (IFIBA, Argentina),
+- Susana Pedrosa (IAFE, Argentina, chair)
+- María Sol Rosito (IAFE, Argentina),
+- Patricia Tissera (UNAB, Chile)
 
 ## Past Editions
 
