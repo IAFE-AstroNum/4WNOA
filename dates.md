@@ -1,7 +1,7 @@
 # Important Dates and Deadlines
 
-Abstract submission deadline for oral presentations | TBD
-Abstract submission deadline for poster presentations | TBD
-Early fee registration deadline | TBD
-Late fee registration deadline | TBD
+Abstract submission deadline for oral presentations | 1 August 2018
+Abstract submission deadline for poster presentations | TBA
+Early fee registration deadline | TBA
+Late fee registration deadline | TBA
 Workshop | November 12-16 2018
