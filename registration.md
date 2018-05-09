@@ -8,8 +8,8 @@ Please bear in mind that there is a limit of **70 participants** for this worksh
 
 ## Registration Fees
 
-Early fee | TBD
-Late fee | TBD
+Early fee | 200 USD
+Late fee | 300 USD
 
 ## Contribution Formats
 
@@ -30,4 +30,4 @@ show it at the conference registration desk.
 
 ## Registration Form
 
-TBD
+Registration will open soon
