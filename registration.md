@@ -30,7 +30,7 @@ show it at the conference registration desk.
 
 ## Registration Form
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeX0aaj1DKUPkbxI95DeuKJ-13C4M50r_48E5uOb1dARhKwmg/viewform?embedded=true" width="700" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeX0aaj1DKUPkbxI95DeuKJ-13C4M50r_48E5uOb1dARhKwmg/viewform?embedded=true" width="800" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 ## Abstract Submission Form
 
