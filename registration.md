@@ -8,8 +8,8 @@ Please bear in mind that there is a limit of **70 participants** for this worksh
 
 ## Registration Fees
 
-Early fee | 200 USD
-Late fee | 300 USD
+Early fee | TBA
+Late fee | TBA
 
 ## Contribution Formats
 
