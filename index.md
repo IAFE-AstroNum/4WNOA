@@ -4,7 +4,7 @@ layout: frontpage
 ---
 
 <div class="alert alert-danger" role="alert">
-  Due to problems in the organization the workshop is currently suspendended until further notice.
+  Due to problems in the organization the workshop is currently suspendended until further notice
 </div>
 
 ## Scientific Rationale 
