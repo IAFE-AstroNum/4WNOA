@@ -3,6 +3,10 @@ title: 4WNOA
 layout: frontpage
 ---
 
+<div class="alert alert-danger" role="alert">
+  Due to problems in the organization the workshop is currently suspendended until further notice.
+</div>
+
 ## Scientific Rationale 
 
 The fourth Workshop on Numerical and Observational Astrophysics organized by the Numerical
